@@ -1,3 +1,3 @@
-## SUDOKU
+# SUDOKU
 
-# bullet list
+## bullet list
